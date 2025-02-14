@@ -9,3 +9,5 @@ This is a simple web project where you practice creating a form for entering a p
 - Enter a password and confirm it by typing it a second time.
 - Basic password verification to ensure both entries match.
 - Focus on learning the mechanics of password input and validation.
+
+#### Technologies Used: HTML, CSS, JavaScript.
